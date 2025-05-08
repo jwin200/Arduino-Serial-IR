@@ -4,7 +4,7 @@ Jonah Winchell
 
 Digital Network Infrastructure, Spring 2025
 
-This project outlines one transmit and one receive module for RS323-compliant serial communication via IR. The repository also includes software for the both modules in `tx_final.ino` and `rx_final.ino` respectively.
+This project outlines one transmit and one receive module for RS232-compliant serial communication via IR. The repository also includes software for the both modules in `tx_final.ino` and `rx_final.ino` respectively.
 
 ---
 
